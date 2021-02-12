@@ -1,5 +1,5 @@
 {
-  "name": "mondal/org-chart",
+  "name": "hassananwar19/mondalDist",
   "version": "8.1.1",
   "description": "Hierarchical Organizational Chart for Angular",
   "keywords": [
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ashishmondal/mondal-ui.git"
+    "url": "https://github.com/hassananwar19/mondalDist.git"
   },
   "bugs": {
-    "url": "https://github.com/ashishmondal/mondal-ui/issues"
+    "url": "https://github.com/hassananwar19/mondalDist/issues"
   },
-  "homepage": "https://github.com/ashishmondal/mondal-ui",
+  "homepage": "https://github.com/hassananwar19/mondalDist",
   "peerDependencies": {
     "@angular/common": "^8.0.0",
     "@angular/core": "^8.0.0"
